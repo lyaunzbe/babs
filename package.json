@@ -1,0 +1,22 @@
+{
+  "name": "babs",
+  "version": "0.0.0",
+  "description": "Bay Area Bike Share data mining",
+  "main": "babs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyaunzbe/babs.git"
+  },
+  "author": "Benjamin Lyaunzon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyaunzbe/babs/issues"
+  },
+  "homepage": "https://github.com/lyaunzbe/babs",
+  "dependencies": {
+    "superagent": "~0.17.0"
+  }
+}
